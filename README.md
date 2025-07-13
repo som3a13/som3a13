@@ -17,7 +17,7 @@
 - 🌱 Currently learning and tinkering with Yocto and BuildRoot
 - 👯‍♂️ Looking to collaborate on Embedded Linux projects 
 - 💬 Ask me about Linux Kernel, C/C++, Python, and IoT
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/som3a313/)
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ismail313/)
 - ⚡ Fun fact: I enjoy coding late at night with a good cup of coffee!
 
 ---
